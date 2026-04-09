@@ -1,0 +1,4 @@
+{
+  "name": "HydraHosting",
+  "postStartCommand": "bash /workspaces/HydraHosting/startup.sh"
+}
