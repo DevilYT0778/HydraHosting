@@ -1,0 +1,8 @@
+{
+  "name": "hydrahosting",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "cd hydra && npm install && npm run build:user",
+    "start": "cd hydra && node ."
+  }
+}
